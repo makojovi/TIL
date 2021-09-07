@@ -1,7 +1,7 @@
 # Apacheのインストール手順
 ---
 
-sudo yum update -y  
+> sudo yum update -y  
 
 ・Apacheのインストール  
 > sudo yum -y install httpd  
