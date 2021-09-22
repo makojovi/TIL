@@ -1,0 +1,7 @@
+個人的にAWSの学習を始めたタイミングで業務でAzure AIを使用することになったのでAzureの学習を開始。。。
+
+目標（仮）：AZ-900 Microsoft Certified: Azure Fundamentals取得
+⇒「Microsoft Azure Virtual Training Day: Fundamentals」に参加したため、無償で受けられるため
+⇒資格獲得を目標にした方がモチベ維持できるため
+
+学習方法：Microsoft Learn
